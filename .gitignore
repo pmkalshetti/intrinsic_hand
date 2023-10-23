@@ -1,0 +1,11 @@
+# ignore large size files
+data
+output
+
+# other files
+.ipynb_checkpoints
+.env
+.vscode
+__pycache__
+.DS_Store
+._.DS_Store
