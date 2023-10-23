@@ -7,7 +7,7 @@
 > __Intrinsic Hand Avatar: Illumination-aware Hand Appearance and Shape Reconstruction from Monocular RGB Video__  
 > [Pratik Kalshetti](https://www.cse.iitb.ac.in/~pratikm), [Parag Chaudhuri](https://www.cse.iitb.ac.in/~paragc) <br>
 > _IEEE/CVF Winter Conference on Applications of Computer Vision (__WACV__), 2024_  
-> __[Paper](https://www.cse.iitb.ac.in/~pratikm/data/publications/papers/2024_wacv_intrinsic_hand.pdf)__
+> __[Paper](https://www.cse.iitb.ac.in/~pratikm/data/publications/papers/2024_wacv_intrinsic_hand.pdf)&nbsp;/ [Video](https://youtu.be/L6y42-NR53Q)__
 
 This is the official code repository of our paper.
 
